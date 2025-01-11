@@ -4,8 +4,8 @@
 
 
 ## I'm student and aspiring Front-end Web Developer from India!!
-- 🔭 I’m currently working on AdminAstro using node.js.
-- 🌱 I’m currently learning Node.js and mongoDB
+
+- 🌱 I’m currently learning React.js and three.js
 - 💬 Ask me about DSA
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am very creative and hardworking
